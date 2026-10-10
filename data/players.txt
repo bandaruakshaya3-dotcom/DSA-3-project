@@ -1,0 +1,4 @@
+1|Virat Kohli|India|12000|250|58.2|Excellent batting performance with consistent scoring
+2|Rohit Sharma|India|10500|240|49.5|Strong batting performance with consistent scoring
+3|Steve Smith|Australia|9500|230|51.7|Consistent batting performance in important matches
+4|Babar Azam|Pakistan|6000|150|48.2|Good batting performance with strong technique
